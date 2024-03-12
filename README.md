@@ -1,20 +1,34 @@
+[![Closed issues][closed-issues-image]][closed-issues-url]
+[![Sponsor the author][sponsor-image]][sponsor-url]
+
 <p style="text-align: center">
 <a href="https://github.com/cosmif/centurion-studio-app">
     <img src="https://raw.githubusercontent.com/cosmif/centurion-studio-app/master/assets/logo-light.png" alt="Centurion Studio Logo" width="300">
 </a>
 <br>
 <br>
-A web application to design, prototype, and build micro-services with high-quality code.
+A model-driven IDE to design, prototype, and build micro-services with .
 </p>
 
 
 ## 🔎 Preview
 
-Centurion Studio is compatible with all modern browsers. Thanks to its modern and user-friendly UI design you can design, prototype, 
-and build micro-services quickly! By using a model-driven approach, you first build your persistence layer and from the ground up configure generated code to expose RESTful API! <a href="https://app.centurion-studio.com">Get started</a>
+Centurion Studio is a model-driven IDE that abstracts some technical aspects of writing software, and presents them as 
+visual components easy to change end reflect the requirements. It comes with a modern and intuitive UI witch helps 
+accelerate the development process by capturing and automating many of the routine coding and testing processes required
+in traditional development.
+
+Whether you’re a software architect, a professional developer or a novice, model-driven development helps teams work more 
+efficiently and improve software quality and maintainability. 
+
+Don't hesitate, try <a href="https://app.centurion-studio.com">Centurion Studio</a> now!
 
 <a href="https://app.centurion-studio.com" target="_blank"><img src="https://raw.githubusercontent.com/cosmif/centurion-studio-app/master/assets/dahsboard-dark.png" alt="Centurion Studio Preview"></a>
 
+## Benefits
+
+
+## 🚀 Features
 
 ## 📖 Documentation
 
@@ -22,7 +36,7 @@ Documentation is available at: https://docs.centurion-studio.com
 
 
 ## 💕 Support the project
-If you find this project useful, please consider ❤️ <a href="https://github.com/sponsors/cosmifcozma">sponsoring my work</a> or just support me on [Ko-fi](https://ko-fi.com/cosmifcozma).
+If you find this project useful, and you want to help me grow it, you can become a ❤️ <a href="https://github.com/sponsors/cosmifcozma">sponsor on GitHub</a> or just donate on PayPal.
 
 Your sponsorship will help me dedicate more time to maintaining the project and will encourage me to add new features and fix existing bugs.
 
