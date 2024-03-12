@@ -1,15 +1,9 @@
+# [<img src="https://raw.githubusercontent.com/cosmif/centurion-studio-app/master/assets/logo-light.png" alt="Centurion Studio Logo" width="300">](https://github.com/cosmif/centurion-studio-app)
+
+[![Stars][stars-image]][stars-url]
 [![Closed issues][closed-issues-image]][closed-issues-url]
+[![Sponsor the author][discussions-img]][discussions-url]
 [![Sponsor the author][sponsor-image]][sponsor-url]
-
-<p style="text-align: center">
-<a href="https://github.com/cosmif/centurion-studio-app">
-    <img src="https://raw.githubusercontent.com/cosmif/centurion-studio-app/master/assets/logo-light.png" alt="Centurion Studio Logo" width="300">
-</a>
-<br>
-<br>
-A model-driven IDE to design, prototype, and build micro-services with .
-</p>
-
 
 ## 🔎 Preview
 
@@ -76,3 +70,13 @@ You can learn more about who I am, what I do, what my current top skills are and
 So if you want to hire my services, don’t hesitate to drop me a line at the email address listed in my [GitHub profile](https://github.com/cosmifcozma).
 I won’t list it here to avoid spam, but it’s easy to find.
 
+
+[repo-url]: https://github.com/cosmifcozma/centurion-studio-app
+[stars-url]: https://github.com/cosmifcozma/centurion-studio-app/stargazers
+[closed-issues-url]: https://github.com/cosmifcozma/centurion-studio-app/issues?q=is%3Aissue+is%3Aclosed
+[stars-image]: https://img.shields.io/github/stars/cosmifcozma/centurion-studio-app?style=flat-square
+[closed-issues-image]: https://img.shields.io/github/issues-closed/cosmifcozma/centurion-studio-app?style=flat-square
+[sponsor-image]: https://img.shields.io/badge/sponsor-orange?style=flat-square
+[sponsor-url]: https://github.com/sponsors/cosmifcozma
+[discussions-img]: https://img.shields.io/github/discussions/cosmifcozma/centurion-studio-app
+[discussions-url]: https://github.com/cosmifcozma/centurion-studio-app/discussions
