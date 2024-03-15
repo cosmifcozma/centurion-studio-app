@@ -1,0 +1,9 @@
+{
+  "templates": [
+    {
+      "name": "class",
+      "id": "SB00001",
+      "value": "// THIS IS A SPRING BOOT TEMPLATE\npublic class {{className}} {\n    \n}"
+    }
+  ]
+}

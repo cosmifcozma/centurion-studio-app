@@ -80,3 +80,4 @@ I won’t list it here to avoid spam, but it’s easy to find.
 [sponsor-url]: https://github.com/sponsors/cosmifcozma
 [discussions-img]: https://img.shields.io/github/discussions/cosmifcozma/centurion-studio-app
 [discussions-url]: https://github.com/cosmifcozma/centurion-studio-app/discussions
+
